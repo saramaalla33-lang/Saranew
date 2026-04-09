@@ -1,0 +1,87 @@
+body {
+    background-color: #e3f2fd; 
+    font-family:Tahoma, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    width: 100%;
+}
+
+.card {
+    background-color: #ffffff;
+    border-radius: 12px;
+    padding: 25px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05); 
+    border: 1px solid #f0f0f0;
+}
+
+.header-card {
+    text-align: center;
+}
+
+h1 {
+    color: #0277bd;
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+
+h3 {
+    color: #ef6c00; 
+    font-size: 18px;
+    margin-top: 0;
+    border-bottom: 1px solid #fce4ec;
+    padding-bottom: 8px;
+}
+
+p {
+    color: #555;
+    line-height: 1.6;
+    font-size: 15px;
+}
+
+.tip-card {
+    background-color: #fffde7; 
+    border-left: 5px solid #ffd600;
+}
+
+.image-card img {
+    width: 100%;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+ul, ol {
+    color: #444;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+.links-list {
+    list-style: none;
+    padding: 0;
+}
+
+.links-list a {
+    color: #0277bd;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.final-footer {
+    text-align: center;
+    color: #888;
+    font-size: 12px;
+    margin-top: 20px;
+    padding-bottom: 40px;
+}
+
+.check-list {
+    list-style: none;
+    padding: 0;
+}
